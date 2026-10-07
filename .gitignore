@@ -1,0 +1,32 @@
+# OS generated files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msu
+
+# Logs & Temporary files
+*.log
+logs/
+temp/
+tmp/
+
+# Ollama models binary (jangan push model besar ke GitHub!)
+*.gguf
+*.bin
+models/
+blobs/
+manifests/
+
+# Python / Node caches if any
+__pycache__/
+*.py[cod]
+node_modules/
+.env
+.env.local
