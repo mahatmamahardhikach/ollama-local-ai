@@ -93,6 +93,6 @@ git commit -m "feat: initial commit local ollama documentation and scripts"
 # 3. Buat repository baru di GitHub (misal: ollama-local-ai)
 # Lalu hubungkan remote repository dan push:
 git branch -M main
-git remote add origin https://github.com/<username-github-anda>/ollama-local-ai.git
+git remote add origin https://github.com/mahatmamahardhikach/ollama-local-ai.git
 git push -u origin main
 ```
